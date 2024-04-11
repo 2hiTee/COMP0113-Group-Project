@@ -6,7 +6,7 @@
 
 # Code instruction
 
-A+ ll C# script are in folder Assets/Customize/C# scripts.
++ All C# script are in folder `Assets/Customize/C#` scripts.
 
 + `PlayerDisDetect.cs` used to detect the distance between player's hand and the victim's chest and head.
 
